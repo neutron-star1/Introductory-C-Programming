@@ -1,7 +1,0 @@
-Grading at Sat 24 Oct 2026 04:43:34 PM UTC
-Compiling your code
-Checking if your program prints "Hello World"
-Line_1_did_not_match
-Your file did not match the expected ouput
-
-Overall Grade: FAILED
