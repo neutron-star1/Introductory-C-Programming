@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-typedef struct _retire_info{
+typedef struct _retire_info
+{
   int months;
   double contribution;
   double rate_of_return;
@@ -32,7 +33,8 @@ void retirement (int startAge,   //in months
   }
 }
 
-int main(){
+int main()
+{
   retire_info working = {489,1000,0.045};
   retire_info retired = {384,-4000,0.01};
   retirement(327,21345,working,retired);
